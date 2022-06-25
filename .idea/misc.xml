@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.3572916666666667" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/buy_now_btn_background.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/home_selector.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_heart.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_heart_enabled.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_home_selected.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_search_190.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_search_190_selected.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_user.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_user_selected.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/item1bg.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/item2bg.xml" value="0.203125" />
+        <entry key="app/src/main/res/drawable/item3bg.xml" value="0.203125" />
+        <entry key="app/src/main/res/drawable/item4bg.xml" value="0.203125" />
+        <entry key="app/src/main/res/drawable/like_selector.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/offer_background.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/search_selector.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/drawable/user_selector.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/Home_fargment.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2200328407224959" />
+        <entry key="app/src/main/res/layout/category_item.xml" value="0.75" />
+        <entry key="app/src/main/res/layout/fargment1.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/layout/fargment2.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/layout/fargment3.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/layout/fargment4.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/layout/home_fargment.xml" value="0.2953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

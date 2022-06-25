@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_mrg">2dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="rounded_degreeSelected_item">18dp</dimen>
+</resources>
